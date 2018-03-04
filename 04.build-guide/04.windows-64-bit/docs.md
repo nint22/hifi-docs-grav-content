@@ -87,7 +87,7 @@ Run Command Prompt from Start and run the following commands:
 Follow these steps to make your build:
 * Open  `%HIFI_DIR%\build\hifi.sln`  using Visual Studio.
 * For best performance, change the Solution Configuration (next to the green play button) from Debug to Release for best performance.
-* Lastly, go to Run Build > Build Solution.
+* Lastly, build the solution: click on the menu item Build > Build Solution.
 
 
 #####3. Test the Interface
