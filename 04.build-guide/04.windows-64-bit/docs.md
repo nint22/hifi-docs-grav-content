@@ -96,7 +96,7 @@ Create another environment variable (Just like how you created the Qt-variable).
 * Set Variable name: _NO_DEBUG_HEAP
 * Set Variable value: 1
 
-In Visual Studio, go to the Apps folder in the Solution Explorer. Right-click interface and select Set as Startup Project. Then, you can navigate to Run Debug > Start Debugging.
+In Visual Studio, go to the Apps folder in the Solution Explorer. Right-click interface and select Set as Startup Project. Then, you can navigate to the menu item Debug > Start Debugging.
 
 Now, you should have a full build of High Fidelity and be able to run the Interface using Visual Studio. Please check our documentation for more information regarding the programming workflow.
 
